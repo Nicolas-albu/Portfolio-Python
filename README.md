@@ -11,7 +11,7 @@ Obrigado por visitar meu portfólio!
 ##
 
 ## :globe_with_meridians: **PassGenAPI**
-<img src="https://github.com/Nicolas-albu/PassGenAPI/blob/main/docs/OpenGenAPI-GIF.gif" alt="PassGenAPI">
+<img src="https://github.com/Nicolas-albu/PassGenAPI/blob/main/docs/PassGenAPI-GIF.gif" alt="PassGenAPI">
 
 A [**PassGenAPI**](https://github.com/Nicolas-albu/PassGenAPI) é uma ferramenta útil desenvolvida com o framework FastAPI:zap:, para gerar senhas fortes e seguras com facilidade. Os usuários podem utilizá-la para criar senhas aleatórias com vários comprimentos e níveis de complexidade, escolhendo entre caracteres especiais, letras maiúsculas e minúsculas, números e muito mais. Além disso, a PassGenAPI permite a criação de hashes para tornar as senhas ainda mais seguras.
 

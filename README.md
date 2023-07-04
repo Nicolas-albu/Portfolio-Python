@@ -12,7 +12,7 @@ Obrigado por visitar meu portfólio!
 
 ## :globe_with_meridians: **PassGenAPI**
 <a href="https://github.com/Nicolas-albu/PassGenAPI">
-    <img src="https://github.com/Nicolas-albu/PassGenAPI/blob/main/docs/PassGenAPI-GIF.gif" alt="PassGenAPI">
+    <img src="https://github.com/Nicolas-albu/PassGenAPI/blob/main/docs/src/PassGenAPI-GIF.gif" alt="PassGenAPI">
 </a>
 
 <div align="center" alt="contatos">
